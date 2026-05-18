@@ -1,4 +1,4 @@
-###👋 Hi, I’m a Frontend Developer with 1+ year of experience
+##👋 Hi, I’m a Frontend Developer with 1+ year of experience
 
 💻 Passionate about building responsive, user-friendly web experiences
 🎨 Creative designer who loves blending clean code with unique visuals
